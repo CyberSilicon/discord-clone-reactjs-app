@@ -12,7 +12,6 @@ function App() {
 
       <Sidebar />
 
-
       {/*Chat*/}
 
       <Chat />
